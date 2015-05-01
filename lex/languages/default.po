@@ -1,0 +1,1344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lex\n"
+"POT-Creation-Date: 2014-06-16 15:14+0100\n"
+"PO-Revision-Date: 2014-06-16 15:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: pebas <pebasdesign@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\lex\\wp-content\\themes\\lex\n"
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:62
+msgid "Leave Comment"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:70
+msgid "Send Comment"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:74
+msgid "You Name"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:75
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:34
+msgid "Name"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:77
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:37
+msgid "Please enter your name."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:80
+msgid "Your Email"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:81
+msgid "Email"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:87
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:88
+msgid "Comment"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/comments.php:92
+msgid "or cancel reply"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:15
+msgid "Please enter your first name."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:16
+msgid "Please enter your last name."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:17
+msgid "Sorry, no spaces allowed in username."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:18
+msgid "Please enter a username."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:19
+msgid "Username already exists, please try another."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:20
+msgid "Please enter a valid email."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:21
+msgid "This email address is already in use."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:22
+msgid "Password must be at least six characters."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:23
+msgid "Passwords do not match."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:24
+msgid "You must input your city."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:25
+msgid "You must select your gender."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:26
+msgid "You must input your age."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:27
+msgid "Sorry, but this request is invalid."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:28
+msgid "This account needs email verification."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:29
+msgid "Username is invalid."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:30
+msgid "Password is invalid."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:31
+msgid "Error singin you in."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:77
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:78
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:79
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:80
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:91
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:92
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:171
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:93
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:113
+msgid "Lex Options"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:114
+msgid "Lex Settings"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:123
+msgid "Overall"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:125
+msgid ""
+"This is basic section where you can set up main settings for your website."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:131
+msgid "Site Main Image"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:132
+msgid "Upload image for the home page background image."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:138
+msgid "Site Favicon"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:139
+msgid ""
+"Please upload favicon here in PNG or JPG format. <small>(18px 18px maximum "
+"size recommended)</small>)"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:145
+msgid "Site Logo"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:146
+msgid "Upload site logo"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:152
+msgid "Contact Text"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:153
+msgid "Input contact phone or something and it will be next to the navigation"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:159
+msgid "Site Inner Background"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:160
+msgid "Upload image for the inner backgrounds"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:166
+msgid "Read More Icon"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:167
+msgid "Select read more icon for all of the post types."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:175
+msgid "Footer Copyrights"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:176
+msgid "Input footer copyrights."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:187
+msgid "SEO"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:189
+msgid "This is important part for search engines."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:195
+msgid "Site Name"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:196
+msgid "<br />Type your website name here."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:202
+msgid "Keywords"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:203
+msgid ""
+"<br />Type here website keywords separated by comma. <small>(eg. lorem, "
+"ipsum, adiscipit)</small>."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:210
+msgid "Description"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:211
+msgid "<br />Type here website description."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:217
+msgid "GA Code"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:218
+msgid ""
+"<br />Type here Google Analytics Code in UA-XX-XXX. <small>(use numbers "
+"instead of XX-XXX)</small>."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:229
+msgid "Subscription"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:231
+msgid "Set up subscription API key and list ID."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:237
+msgid "API Key"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:238
+msgid "<br />Type your mail chimp api key."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:244
+msgid "List ID"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:245
+msgid "<br />Type here ID of the list on which users will subscribe."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:254
+msgid "Social"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:256
+msgid "Set links to social networks in th footer."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:262
+msgid "Linkedin link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:263
+msgid "Input link to Linkedin."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:270
+msgid "Facebook link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:271
+msgid "Input link to Facebook."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:278
+msgid "Twitter link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:279
+msgid "Input link to Twitter."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:286
+msgid "Google + link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:287
+msgid "Input link to Google+."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:297
+msgid "Appearance"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:299
+msgid "Set up the looks."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:305
+msgid "Header BG Color"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:306
+msgid "Select header background color."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:313
+msgid "Footer BG Color"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:314
+msgid "Select footer background color."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:322
+msgid "Dark Section BG Color"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:323
+msgid "Select dark section background main color."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:331
+msgid "Preloader BG Color"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:332
+msgid "Selectpreloader background main color."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:343
+msgid "Practice Area Settings"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:345
+msgid "Practice area settings."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:350
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:388
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:426
+msgid "Show Filter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:351
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:389
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:427
+msgid "<br />Show or hide the letter filter."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:353
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:391
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:429
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:354
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:392
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:430
+msgid "No"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:360
+msgid "Open practice Areas In"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:361
+msgid "<br />Select how to show practice areas single."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:363
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:401
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:439
+msgid "Modal"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:364
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:402
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:440
+msgid "Single Page"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:370
+msgid "Practice Areas Per Page"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:371
+msgid ""
+"<br />Input number of practice areas to show per page (-1 to show them all)."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:381
+msgid "Case Results Settings"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:383
+msgid "Case results settings."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:398
+msgid "Open Case Results In"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:399
+msgid "<br />Select how to show case results single."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:408
+msgid "Case Results Per Page"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:409
+msgid ""
+"<br />Input number of case results to show per page (-1 to show them all)."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:419
+msgid "Lawyers Settings"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:421
+msgid "Lawyers settings."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:436
+msgid "Open Lawyers In"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:437
+msgid "<br />Select how to show lawyers single."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:446
+msgid "Lawyers Per Page"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:447
+msgid "<br />Input number of lawyers to show per page (-1 to show them all)."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:457
+msgid "Home Page"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:459
+msgid "Home page settings."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:464
+msgid "Dynamic Text"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:465
+msgid "<br />Input each text in the new line."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:470
+msgid "Static Text"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:471
+msgid "<br />Input static text."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:476
+msgid "Site Main Button Link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:477
+msgid "<br />Input link for the main button."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:482
+msgid "Site Main Button Text"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:483
+msgid "<br />Input text for the main button."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:488
+msgid "Site Main Button Icon"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:490
+msgid "<br />Select icon for the main button."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:495
+msgid "Site Slogan"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:496
+msgid "<br />Type in site Slogan which will appear on the home page."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:507
+msgid "Contact Page"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:509
+msgid "Contact page settings."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:514
+msgid "Form Title"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:515
+msgid "<br />Input title of for the contact form."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:520
+msgid "Form Subtitle"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:521
+msgid "<br />Input contact form subtitle."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:526
+msgid "Contact Email"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:527
+msgid "<br />Input email where the messages should arive."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:532
+msgid "Contact Subject"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:533
+msgid "<br />Input subject for the message which will arrive to you."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:550
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:556
+msgid "Appears on the right side of the blog listing, and blog posts."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:560
+msgid "Page Sidebar"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:566
+msgid "Appears on the right side of the page with right sidebar."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:576
+msgid "Practice Areas"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:577
+msgid "Practice Area"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:590
+msgid "Case Results"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:591
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1156
+msgid "Case Result"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:604
+msgid "Lawyers"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:605
+msgid "Lawyer"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:619
+msgid "Testimonials"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:620
+msgid "Testimonial"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:634
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:635
+msgid "FAQ"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:648
+msgid "Lex Sections"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:649
+msgid "Lex Section"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:661
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:664
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:685
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:688
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:709
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:712
+msgid "Letters"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:665
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:666
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:689
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:690
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:713
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:714
+msgid "Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:667
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:691
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:715
+msgid "All Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:668
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:692
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:716
+msgid "Edit Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:669
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:693
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:717
+msgid "View Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:670
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:694
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:718
+msgid "Update Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:671
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:695
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:719
+msgid "Add New Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:672
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:696
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:720
+msgid "New Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:673
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:697
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:721
+msgid "Parent Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:674
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:698
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:722
+msgid "Parent Letter:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:675
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:699
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:723
+msgid "Search Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:676
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:700
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:724
+msgid "Popular Letter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:677
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:701
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:725
+msgid "Separate letter with commas"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:678
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:702
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:726
+msgid "Add or remove letters"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:679
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:703
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:727
+msgid "Choose from the most used letters"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:680
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:704
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:728
+msgid "No letters found"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:768
+msgid "Pending"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:881
+msgid "Top Navigation"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1101
+msgid "Select Bottom Sidebar"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1112
+msgid "Position of the lawyer"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1117
+msgid "Facebook Link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1122
+msgid "Twiter Link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1127
+msgid "Linkedin Link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1133
+msgid "Lawyer Data"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1141
+msgid "Name Of the Court"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1146
+msgid "Date"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1151
+msgid "Charged For"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1161
+msgid "Earned"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1167
+msgid "Case Result Data"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1181
+msgid "Practice Area Data"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1190
+msgid "Input subtitle"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1196
+msgid "Subtitle"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1204
+msgid "Input practice area subtitle"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1210
+msgid "Practice area subtitle"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1219
+msgid "Input media iframe"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1225
+msgid "Post Media"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1476
+msgid "&raquo;"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1477
+msgid "&laquo;"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1588
+msgid "Invalid Security Code"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1594
+msgid "Name: "
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1595
+msgid "Phone: "
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1596
+msgid "Email: "
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1597
+msgid "Message: "
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1604
+msgid "Your message was successfully submitted."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1612
+msgid "Unexpected error while attempting to send e-mail."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1639
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1645
+msgid "You have successuffly subscribed to the newsletter."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1650
+msgid "API data are not yet set."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1654
+msgid "Email is empty or invalid."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1804
+msgid "@"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1813
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/functions.php:1822
+msgid "Reply"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_case_results_1.php:134
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_case_results_2.php:143
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_case_results_3.php:142
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_case_results_4.php:143
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_lawyers.php:126
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_practice_area_1.php:105
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_practice_area_2.php:116
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_practice_area_3.php:116
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_practice_area_4.php:115
+msgid "Nothing found here!"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:35
+msgid "Please enter your full name..."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:41
+msgid "Phone"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:42
+msgid "XXX-XXX-XXXX"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:44
+msgid "Please enter a valid phone number.  Must be at least six digits long."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:48
+msgid "Email Address"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:49
+msgid "Please enter your email..."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:51
+msgid "Please enter a valid e-mail address."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:55
+msgid "Message"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:56
+msgid "Please be desscriptive as much as you can..."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:58
+msgid "Please enter a message."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:62
+msgid "What is a sum?"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:65
+msgid "Not correct, please try again.."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:68
+msgid "Sending..."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/page-tpl_contact.php:68
+msgid "Send Your Case"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/searchform.php:4
+msgid "Type term and search..."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1950
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1950
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/inner_header.php:46
+msgid "Search by tag: "
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/inner_header.php:49
+msgid "Archive for:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/inner_header.php:52
+msgid "Search results for: "
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:12
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:16
+msgid "Lex Text"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:12
+msgid "Lex Text Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:30
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:91
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:139
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:191
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:236
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:275
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:315
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:374
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:442
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:524
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:603
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:33
+msgid "Text:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:49
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:53
+msgid "Lex Social"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:49
+msgid "Lex Social Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:94
+msgid "Twitter page link:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:97
+msgid "Facebook page link:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:100
+msgid "Google+ page link:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:103
+msgid "Instagram page link:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:122
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:126
+msgid "Lex Archives"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:122
+msgid "Lex Archives Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:155
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:159
+msgid "Lex Latest Comments"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:155
+msgid "Lex Latest Comments Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:179
+msgid " ago"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:194
+msgid "Count:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:211
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:215
+msgid "Lex Tags"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:211
+msgid "Lex Tags Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:251
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:255
+msgid "Lex Categories"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:251
+msgid "Lex Categories Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:290
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:294
+msgid "Lex Newsletter"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:290
+msgid "Lex Newsletter Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:300
+msgid "Lex latest news on your email"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:304
+msgid "Email address..."
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:330
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:334
+msgid "Lex Latest Blogs"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:330
+msgid "Lex Latest Blogs Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:359
+msgid "by"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:359
+msgid "in"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:377
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:445
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:527
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:606
+msgid "Number of posts:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:395
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:399
+msgid "Lex FAQ"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:395
+msgid "Lex FAQ Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:448
+msgid "Select FAQ to show:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:472
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:476
+msgid "Lex Practice Areas"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:472
+msgid "Lex Practice Areas Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:530
+msgid "Select practice areas to show:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:554
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:558
+msgid "Lex Case Results"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:554
+msgid "Lex Case Results Widget"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/lex_widgets.php:609
+msgid "Select case results to show:"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/navigation.php:9
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/shortcodes.php:458
+msgid "SIGN UP FOR NEWSLETTER"
+msgstr ""
+
+#: C:\wamp\www\lex\wp-content\themes\lex/includes/shortcodes.php:459
+msgid "Type your email here and hit enter/return to subscribe..."
+msgstr ""
